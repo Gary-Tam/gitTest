@@ -19,5 +19,6 @@ public class Test {
         int a = 0;
         System.out.println("------------");
         System.out.println("push commit");
+        System.out.println("在github网页上手动添加了一行");
     }
 }
