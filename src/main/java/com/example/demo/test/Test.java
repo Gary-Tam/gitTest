@@ -18,5 +18,6 @@ public class Test {
         System.out.println("normal merge");
         int a = 0;
         System.out.println("------------");
+        System.out.println("push commit");
     }
 }
