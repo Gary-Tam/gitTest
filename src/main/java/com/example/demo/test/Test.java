@@ -16,5 +16,7 @@ public class Test {
         System.out.println("git version3");
         System.out.println("git version4");
         System.out.println("normal merge");
+        int a = 0;
+        System.out.println("------------");
     }
 }
