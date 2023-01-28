@@ -3,7 +3,7 @@ package com.example.demo.test;
 /**
  * Created with IntelliJ IDEA.
  *
- * @Author:Gary
+ * @Author: Gary
  * @Description:
  * @params:$
  * @return: $
@@ -13,5 +13,6 @@ public class Test {
     public static void main(String[] args) {
         System.out.println("git version1");
         System.out.println("git version2");
+        System.out.println("git version3");
     }
 }
