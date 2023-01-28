@@ -14,5 +14,7 @@ public class Test {
         System.out.println("git version1");
         System.out.println("git version2");
         System.out.println("git version3");
+        int a = 0;
+        System.out.println("------------");
     }
 }
